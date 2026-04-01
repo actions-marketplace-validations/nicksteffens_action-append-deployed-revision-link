@@ -26,7 +26,7 @@
   "homepage": "https://github.com/nicksteffens/action-append-deployed-revision-link#readme",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.1"
+    "@actions/github": "^9.0.0"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.34.0",
